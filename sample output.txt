@@ -1,0 +1,3 @@
+Highest population: 9
+Years with the most people alive: 1948, 1949, 1950, 1951, 1952
+Press ENTER to continue...
